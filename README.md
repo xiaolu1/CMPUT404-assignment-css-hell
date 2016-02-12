@@ -25,18 +25,28 @@ Code is licensed under the Apache 2.0 license.
 Changes made in Part1
 =================
 Font and size of the paragraph.
+
 Added margin to the headers.
+
 Making header to the center.
+
 Added background image.
+
 Added margin to the body.
+
 Fitted the images into the paragraph.
 
 Source
 =================
 Part1:
+
 Old paper: http://inspiredgolfing.com/wp-content/uploads/2013/01/old-paper-background-edited.jpg
+
 Images in Alice's Adventures in Wonderland: http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland/
 
+
 Part2:
+
 Bootstrap
+
 Background: http://s1048.photobucket.com/component/Download-File?file=%2Falbums%2Fs361%2Fanis_aqma%2Fbackground%2Ftumblr_m1t0vcIB6l1r7o4kzo1_1280_zps8a528ec0.jpg
