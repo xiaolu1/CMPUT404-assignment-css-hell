@@ -1,0 +1,35 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	background:url("img/oldPaper.jpg");
+	text-align:justify;
+}
+
+h1, h2, h3{
+	text-align: center;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+p {
+	font-family: "Times New Roman";
+	font-size: 18px;
+	text-indent: 2em;
+}
+
+img {
+	border-width:5px;	
+	border-style:outset;
+}
+
+.leftImg {
+	float:left;
+	margin-right: 4%;
+	margin-left: 2%;
+}
+
+.rightImg {
+	float:right;
+	margin-right: 2%;
+	margin-left: 4%;
+}

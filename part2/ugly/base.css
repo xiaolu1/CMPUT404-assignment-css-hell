@@ -1,0 +1,62 @@
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
+
+body{
+    margin-top: 1.5cm;
+    color: #FF00FF;
+    background-image: url("background.JPG");
+}
+
+.grayLeft {
+    text-align: left;
+    font-size:18px;
+    color:yellow;
+}
+
+.grayLeftSmall {
+    text-align: left;
+    font-size: 20px;
+    color:blue;
+}
+
+.grayRightSmall {
+    text-align: right;
+    font-size: 20px;
+    color:pink;
+}
+
+h3 {
+    text-align: left;
+    font-size:15px;
+    color:red;
+    padding:7px
+}
+
+h4 {
+    text-align: center;
+    font-size:15px;
+    color:red;
+    padding: 7px
+}
+
+.block {
+    margin-right: 2%;
+    margin-left: 1.6cm;
+    margin-top: 1cm
+}
+
+.rigthBlock {
+    margin-top: 1cm
+}
+
+.row {
+    margin-bottom: 2cm
+}
+
+.container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
